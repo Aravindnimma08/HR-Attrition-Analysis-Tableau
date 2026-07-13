@@ -238,5 +238,3 @@ Use HR analytics for proactive decision-making.
 
 # The HR Attrition Analysis Dashboard enables organizations to monitor workforce trends, identify critical attrition factors, and support evidence-based HR decision-making. The interactive Tableau dashboard provides actionable insights that can help improve employee retention, optimize workforce planning, and enhance overall organizational performance.
 
-#tableau Link : https://public.tableau.com/app/profile/aravind.nimma/viz/Book2_17836204756660/HRAttritionAnalysisDashboard
-
