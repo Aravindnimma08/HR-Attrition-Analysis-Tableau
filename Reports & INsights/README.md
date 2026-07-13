@@ -155,15 +155,11 @@ Life Sciences and Medical education fields contribute the largest number of empl
 
 11. Department Ranking by Attrition
 
-Objective
 
-Compare departments based on employee attrition.
-
-Insight
 
 Research & Development ranks first in employee attrition.
 
-Key Business Insights
+# Key Business Insights:
 Workforce Overview
 Total workforce consists of 1,470 employees.
 Employee attrition rate is approximately 16%.
@@ -216,9 +212,7 @@ Recognize employee performance regularly.
 Job Satisfaction
 
 Lower job satisfaction corresponds with increased employee attrition.
-
 Recommendation
-
 Improve employee engagement programs.
 Conduct satisfaction surveys.
 Address workplace concerns promptly.
@@ -240,30 +234,9 @@ Increase employee recognition programs.
 Invest in continuous learning and development.
 Conduct periodic employee engagement surveys.
 Use HR analytics for proactive decision-making.
-Conclusion
-
-The HR Attrition Analysis Dashboard enables organizations to monitor workforce trends, identify critical attrition factors, and support evidence-based HR decision-making. The interactive Tableau dashboard provides actionable insights that can help improve employee retention, optimize workforce planning, and enhance overall organizational performance.
-
-These three reports are well-suited for a portfolio repository and complement your Tableau dashboard by documenting the data preparation, analysis, and business value of the project.
-
-provide me pdf files to upload in githhub 
-
-I've created the three PDF files for you. You can download them and upload them directly to the Reports folder in your GitHub repository.
 
 
-These are concise, portfolio-ready versions. Since you've spent considerable effort on this project, I recommend creating more detailed, recruiter-quality reports (8–15 pages each) with:
+# The HR Attrition Analysis Dashboard enables organizations to monitor workforce trends, identify critical attrition factors, and support evidence-based HR decision-making. The interactive Tableau dashboard provides actionable insights that can help improve employee retention, optimize workforce planning, and enhance overall organizational performance.
 
-Professional cover pages
-Table of Contents
-Dataset overview
-Data dictionary
-Data cleaning process with screenshots
-EDA methodology
-Explanation of all 8 KPIs
-Explanation of all 11 Tableau charts
-Business insights
-Recommendations
-Conclusion
-References
+#tableau Link : https://public.tableau.com/app/profile/aravind.nimma/viz/Book2_17836204756660/HRAttritionAnalysisDashboard
 
-Those longer reports will significantly strengthen your GitHub repository and are much more impressive to
